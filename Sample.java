@@ -1,9 +1,9 @@
 public class Employee{
   public void empName(){
-    System.out.println("employee name:Nasima");
+    System.out.println("employee name:Aadhil");
   }
   public void empId(){
-    System.out.println("Employee Id : 210");
+    System.out.println("Employee Id : 110");
   }
   public void empAddress(){
     System.out.println("Employee Address : Dhaka");
